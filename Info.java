@@ -1,3 +1,5 @@
+package git-training-supernenas;
+
 class Info {
     public Info() {
     }
