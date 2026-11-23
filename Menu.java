@@ -22,10 +22,12 @@ public class Menu {
 
         switch (opcion) {
             case 1:
-                // Por implementar: Es necesario que Samu agregue la logica de Miembros
+                Miembros miembros = new Miembros();
+                miembros.mostrarMiembros();
                 break;
             case 2:
-                // Por implementar: Es necesario que Joan agregue la logica de Tecnologias
+                Tecnologias tecnologias = new Tecnologias();
+                tecnologias.mostrarTecnologias();
                 break;
             case 3:
                 Info info = new Info();
