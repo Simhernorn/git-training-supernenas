@@ -1,3 +1,5 @@
+package git-training-supernenas;
+
 import java.util.Scanner;
 
 public class Menu {
@@ -26,7 +28,8 @@ public class Menu {
                 // Por implementar: Es necesario que Joan agregue la logica de Tecnologias
                 break;
             case 3:
-                // Por implementar: Es necesario que Antuan agregue la logica de Informacion del proyecto
+                Info info = new Info();
+                info.mostrarInfo();
                 break;
             case 0:
                 System.out.println("Saliendo del programa...");
