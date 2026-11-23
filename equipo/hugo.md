@@ -17,6 +17,6 @@ Desarrollador de Full-Stack
 
 ## Algo que puedo aportar al equipo
 
-Yo que se hermano, estoy poniendo lineas
-Dinero para putas y crack (Antuan me ha retado a dejar esta linea)
-Altas competencias de git y github
+- Yo que se hermano, estoy poniendo lineas
+- Dinero para putas y crack (Antuan me ha retado a dejar esta linea)
+- Altas competencias de git y github
